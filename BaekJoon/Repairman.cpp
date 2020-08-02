@@ -62,4 +62,6 @@ int main()
     }
     
     cout << tapeCount;
+    
+    return 0;
 }
